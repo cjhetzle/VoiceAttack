@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <HasMB>false</HasMB>
-  <Id>d057f785-30a0-4c3c-b8ea-68c3ad0c8550</Id>
+  <Id>6b1f157f-0dcb-4865-b440-77359d488067</Id>
   <Name>Squad (Default)</Name>
   <Commands>
     <Command>
@@ -20,7 +20,7 @@
       <BaseId>7677a5b4-4a94-4a1c-b464-536949ee21bd</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>62111d59-c12a-431e-92e6-44924e2addbc</Id>
+      <Id>0d2edf40-ac2b-4e81-8670-e16343773075</Id>
       <CommandString>((Close_Radial_Menu))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -32,7 +32,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f71f5984-1e55-4f58-a4c7-9abc434bdb0d</Id>
+          <Id>1aeb19b8-fc7a-4e53-81a7-a0e5f5c5a33d</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -133,7 +133,7 @@
       <BaseId>56a79d37-6d01-4016-92c6-ed3e8ece3bee</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>bede1cb4-eebb-4cbf-b50e-84053614f4ba</Id>
+      <Id>9cebc92d-33c3-4497-8197-51fd03127448</Id>
       <CommandString>((Close_Use_Menu))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -145,7 +145,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>11219b5b-3981-4146-861d-3a521be9cbb0</Id>
+          <Id>16d1eca0-1215-4bb1-875f-d3950e3cd673</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -246,7 +246,7 @@
       <BaseId>e63f0450-3e19-4df5-9f31-eb4ecc80530f</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>6b1baad6-6a59-49db-9505-a6ddee51e352</Id>
+      <Id>42b01bdf-7560-4cac-8aa2-cbb7dee52cf2</Id>
       <CommandString>((Comms_Command))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -258,7 +258,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>070496b3-37fc-480e-addd-e537f1cd426c</Id>
+          <Id>138f1117-9974-4da7-a36f-bda8594eaf4f</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -359,7 +359,7 @@
       <BaseId>90d79b25-069d-4ba7-af62-61ffe1fc28b4</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>0f2d5c22-a1f5-4dda-bec4-41a9f11b403f</Id>
+      <Id>e9e44133-dc4d-4f40-aea2-fc68795a3071</Id>
       <CommandString>((Comms_End_All))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -371,7 +371,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>778cc031-0d16-4a8e-9b69-84d4fc4d6fcc</Id>
+          <Id>89d8b556-0cdc-4a8c-a9c5-e5d47f168990</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -405,7 +405,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>3be5f348-562f-4633-906b-7b29441b207a</Id>
+          <Id>9cd25068-41f7-450f-9388-3aa450237f10</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -439,7 +439,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>476bb02d-5bda-4d23-917d-cb0a0a866a7a</Id>
+          <Id>2108e7ee-f492-4057-811f-a29830323aa2</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -473,7 +473,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>c6ea7126-c481-4639-bfc1-b58ba31f65fb</Id>
+          <Id>d4b42365-7a59-459f-958c-2319dbb564bf</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -507,7 +507,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>1f0e62ab-9ae6-4a91-8d09-b549c10ea696</Id>
+          <Id>904b887d-b35f-4d6c-87d1-252fe22ad3e5</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -541,7 +541,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>aec7d914-6c87-4ee2-9033-bae0f3e5f0df</Id>
+          <Id>68bf15b1-a8b5-4caf-9731-0e3c44c99d54</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -575,7 +575,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>812843f6-af5e-407f-abdd-57f09f5cb1a7</Id>
+          <Id>74633f76-f6b0-432e-9ae0-b06737191b34</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -609,7 +609,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>a75ec1b5-4a73-4d37-b069-f194a257621f</Id>
+          <Id>0c77bf03-acd1-431f-83f9-1d78ac431fa0</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -643,7 +643,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>b15d33e4-926b-40be-87d8-de00a9dd88ad</Id>
+          <Id>b5c7677a-dd11-4393-9ac2-b12f6b78c9e8</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -677,7 +677,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>c9be826f-7b03-45bf-ac95-3c03976969a1</Id>
+          <Id>87291305-e330-47bf-9025-27a26eadc8c0</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -711,7 +711,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>c327eafb-2234-4916-bfb6-a0c5d143a79f</Id>
+          <Id>5c8ad796-c5fe-4e86-b7c9-43fa34ad1c3f</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -745,7 +745,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>df884492-631b-45cb-bb2b-4ee9316e4036</Id>
+          <Id>2f94eff6-5762-4a64-ae6c-116bce4f1422</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -846,7 +846,7 @@
       <BaseId>edf1e657-082c-4cdb-9b49-7a0c2a2b9bcb</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>74be4bb5-b0c6-4cac-a06e-83ae51c22dc6</Id>
+      <Id>bc12f15e-128b-4dea-82aa-3c911d20a316</Id>
       <CommandString>((Comms_Local))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -858,7 +858,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>771cf69f-d289-4f16-b43b-a451b2982c1a</Id>
+          <Id>dc347c80-c96b-4057-80e4-4930d26ba571</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -892,7 +892,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>300b40fc-bca4-4fd2-bcb1-22703cdf145c</Id>
+          <Id>8528ce92-ba07-4f0d-9189-68c08b68cc22</Id>
           <ActionType>Pause</ActionType>
           <Duration>15</Duration>
           <Delay>0</Delay>
@@ -923,12 +923,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>8716d98d-f89e-4fae-b983-b1c87f1843be</Id>
+          <Id>30c38ff8-2c23-4caa-a106-f088fe20099b</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>0f2d5c22-a1f5-4dda-bec4-41a9f11b403f</Context>
+          <Context>e9e44133-dc4d-4f40-aea2-fc68795a3071</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -1022,7 +1022,7 @@
       <BaseId>8f14d026-0360-4343-801f-338863a5ff80</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>66beb453-75ef-41a8-932f-acbddd6be402</Id>
+      <Id>974397b8-f23c-4623-af8d-f0d939e461c7</Id>
       <CommandString>((Comms_SL_1))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1034,7 +1034,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>5c66eaf1-fbbc-4aae-abc5-dacb8beafa3a</Id>
+          <Id>80e323b0-9bfe-4463-9b89-6bf16edd59bf</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1135,7 +1135,7 @@
       <BaseId>906b4e78-e8b7-4637-a106-7ee380f6c4a6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>121a4d17-5ba4-4d0c-a3f4-d6372496d620</Id>
+      <Id>8c2fa557-0b5c-4964-ab09-f9c6ff7d1f75</Id>
       <CommandString>((Comms_SL_2))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1147,7 +1147,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>07eee27f-52c7-492c-9ee9-bb9813937e32</Id>
+          <Id>ccde0fc4-dbd3-4bb0-8c3c-0310398b84b2</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1248,7 +1248,7 @@
       <BaseId>697ba5d4-25bf-4019-95dd-9716301cbfe6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>0249bbc9-0a71-4a23-ba5d-c841e161ce25</Id>
+      <Id>d1439ded-ce2a-4f50-89c6-4103c7c857a5</Id>
       <CommandString>((Comms_SL_3))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1260,7 +1260,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>243eecf2-60ac-4846-8886-8db7c1051722</Id>
+          <Id>8c1c2eb1-a307-4df4-9356-6229ee061850</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1361,7 +1361,7 @@
       <BaseId>5a0357d0-58e9-4fb2-83f8-9c80bb8cc973</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>c8185f4d-d6de-45c5-9423-b9cb8c35de00</Id>
+      <Id>5c5a87a2-0960-445e-a91e-01f97d1e25ba</Id>
       <CommandString>((Comms_SL_4))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1373,7 +1373,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f91d3592-88b4-4547-8828-2e55df660324</Id>
+          <Id>ae081137-1ad5-4439-8a44-28871703aa03</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1474,7 +1474,7 @@
       <BaseId>2e07f0fa-e41a-46ae-a2a5-197bfb127cb7</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>04976030-ba89-438b-88c7-9c9029686839</Id>
+      <Id>c6fe54a3-ae7f-442e-8911-aab06b9fee85</Id>
       <CommandString>((Comms_SL_5))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1486,7 +1486,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>c186eb97-8cf7-4411-b252-b22c8f48437c</Id>
+          <Id>ffe5fe4f-4987-4a5c-96e0-0c176d88cf42</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1587,7 +1587,7 @@
       <BaseId>b6a324bd-6890-435b-a7a5-98616f6f7775</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>a63d26cc-8ecb-4905-bb6c-dba5bf667e9e</Id>
+      <Id>4c3ab92d-7a92-4c62-b665-e1c59dbf0b85</Id>
       <CommandString>((Comms_SL_6))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1599,7 +1599,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>be38d742-de51-4cc2-860f-9e6eab5717ac</Id>
+          <Id>ea93e40d-5151-4d1b-b729-414f0c4efd74</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1700,7 +1700,7 @@
       <BaseId>f8116fc6-3b8f-4e8d-8732-0ab5dc3dabc6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b149f785-dc3d-4e0c-887b-3c6fde0fe79f</Id>
+      <Id>3a255303-ff0f-48ac-b5ca-25383cce937d</Id>
       <CommandString>((Comms_SL_7))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1712,7 +1712,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>bc1d4315-d708-474b-ad4a-7cea9016a6da</Id>
+          <Id>2ae06050-c2ba-4602-b9e1-18f697be20c6</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1813,7 +1813,7 @@
       <BaseId>dce9827a-59e2-415d-a3c9-09aa0c60c18f</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>d22348e0-2bf4-41d7-a519-b51d1141a551</Id>
+      <Id>4b7e3859-f085-45f1-a25d-4bcacec0ddae</Id>
       <CommandString>((Comms_SL_8))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1825,7 +1825,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>65c69dfe-3d61-4b28-aada-f5101227d483</Id>
+          <Id>e9d45fc9-5730-494c-adbd-6cb4c68b7065</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1926,7 +1926,7 @@
       <BaseId>61e381a9-a2d7-49c2-8f4c-e1b237155965</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b054b4cf-cf70-4529-9d4a-aedf4717b39e</Id>
+      <Id>d49c8529-da22-4595-9554-76ac21fa4529</Id>
       <CommandString>((Comms_SL_9))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1938,7 +1938,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>5f5a2f39-34b3-4d2c-9f47-e6351c316554</Id>
+          <Id>744bab5d-70af-48b0-b808-b20384689f12</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2039,7 +2039,7 @@
       <BaseId>5ef9758e-e439-47f9-962b-662fe8acc8b8</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>82ec1468-25b2-4893-af44-3a1cb3af3644</Id>
+      <Id>099f2b43-e2ea-4764-8f6c-12718b4b1c9a</Id>
       <CommandString>((Comms_Squad))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2051,7 +2051,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>5661655e-b0e3-44dc-bf23-f8484f90e4db</Id>
+          <Id>dcd5bc91-2fb0-4f53-b886-85a6c8485d05</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2152,7 +2152,7 @@
       <BaseId>d10b9912-d103-4f92-92f7-6cb7fe028100</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>69d88021-6058-4793-b50c-93d4fd92f8f2</Id>
+      <Id>cc92d60c-9873-4e4a-bfbd-bf504764c0ff</Id>
       <CommandString>((Fire_Select_Alt))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2166,7 +2166,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Begin Boolean Compare : [single_fire] Equals True</Caption>
-          <Id>0a4e7951-ed77-4a95-aefb-1802b956aa3e</Id>
+          <Id>b310c38c-f2ef-4d40-8b3b-d6ad4e2c4d16</Id>
           <ActionType>ConditionStart</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2201,12 +2201,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>    Execute command, '((Fire_Select_Toggle))' (and wait until it completes)</Caption>
-          <Id>ffd2b682-994e-4d6e-a5bc-bdea2637583b</Id>
+          <Id>c0981049-4d59-49ed-8a1d-eae23bac7291</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>7af6a145-44e3-4df8-abad-e5b9caf89bc2</Context>
+          <Context>7882905e-7494-4a33-9e9c-1f16d0c89bf9</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -2235,7 +2235,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>End Condition</Caption>
-          <Id>53eadd90-76db-4896-a217-25060168ae33</Id>
+          <Id>63b431a2-3065-4098-836a-e00cdb541aed</Id>
           <ActionType>ConditionEnd</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2333,7 +2333,7 @@
       <BaseId>202ccd6b-2691-45ff-a2fb-30aeae0c7d76</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>069fd15f-3dfa-4e61-979e-4f707a5590d2</Id>
+      <Id>58fb75dc-bff8-4260-8dfd-f9aa44f68c98</Id>
       <CommandString>((Fire_Select_Change))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2347,7 +2347,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Boolean [single_fire] to Toggle</Caption>
-          <Id>2de4b71d-6c01-496a-9764-a12211539ae0</Id>
+          <Id>06a7cad0-9736-43cd-9a37-96cd5b5c6b0c</Id>
           <ActionType>BooleanSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2449,7 +2449,7 @@
       <BaseId>046f8dbb-14c8-44fa-bfe1-9b7eaad80730</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>e9c5eadc-d7b9-4c4f-b02b-adc2195deae4</Id>
+      <Id>ee51dbb9-4098-4108-a8ec-f93acb17f170</Id>
       <CommandString>((Fire_Select_Single))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2463,7 +2463,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Begin Boolean Compare : [single_fire] Equals False</Caption>
-          <Id>f0cf7b26-44a4-495e-9c9c-cef91f83c9c4</Id>
+          <Id>a6c0beb5-4ed1-4ab9-a1ee-41e98a501e3f</Id>
           <ActionType>ConditionStart</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2498,12 +2498,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>    Execute command, '((Fire_Select_Toggle))' (and wait until it completes)</Caption>
-          <Id>4b2059fd-ef5c-4c48-b500-394fbe8200fc</Id>
+          <Id>f6488a9e-d494-4415-8868-0d67c590b412</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>7af6a145-44e3-4df8-abad-e5b9caf89bc2</Context>
+          <Context>7882905e-7494-4a33-9e9c-1f16d0c89bf9</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -2532,7 +2532,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>End Condition</Caption>
-          <Id>4e8f5023-f985-4552-a1df-e7a1463177bb</Id>
+          <Id>59cbf36c-9cf0-4daf-8f0c-2027cef37458</Id>
           <ActionType>ConditionEnd</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2630,7 +2630,7 @@
       <BaseId>b47e2db5-3ff2-493c-80fa-6231c02986d3</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>7af6a145-44e3-4df8-abad-e5b9caf89bc2</Id>
+      <Id>7882905e-7494-4a33-9e9c-1f16d0c89bf9</Id>
       <CommandString>((Fire_Select_Toggle))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2644,7 +2644,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Click middle mouse button</Caption>
-          <Id>e540ec35-45fe-4025-b221-aed7c840b75b</Id>
+          <Id>78c8aab7-bef1-4164-9e9f-cee429171981</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0.2</Delay>
@@ -2678,12 +2678,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Fire_Select_Change))' (and wait until it completes)</Caption>
-          <Id>2205e7bb-f03a-4706-9dbc-4025343275a4</Id>
+          <Id>a909c232-a839-488b-9b75-90e5c1e7643c</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>069fd15f-3dfa-4e61-979e-4f707a5590d2</Context>
+          <Context>58fb75dc-bff8-4260-8dfd-f9aa44f68c98</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -2777,7 +2777,7 @@
       <BaseId>c065238c-61bf-4a8a-9ffb-857c676130ca</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>2144d594-0add-45e8-97fa-d6dfeb5954dc</Id>
+      <Id>9853c10e-837e-4b7a-9d57-a5f9b264845d</Id>
       <CommandString>((Initialize))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2791,7 +2791,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [rangeClicks] value to 0</Caption>
-          <Id>066da4b4-0951-4a02-b0c9-45b72fcaf2da</Id>
+          <Id>f94ae223-faf9-4a92-ac2d-b36ecc24a07d</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2825,7 +2825,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_W1_MAX] value to 1</Caption>
-          <Id>e5f1e300-9bee-4e92-b54a-3fd8d982eb0f</Id>
+          <Id>2e54abf2-3a94-422a-b444-042958d6c1c9</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2859,7 +2859,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_W1_LAST] value to 0</Caption>
-          <Id>dbfbd8ef-c392-4dd1-95fd-05d94c046e1c</Id>
+          <Id>f9017d80-ba4d-440c-a22a-802c35ea1e13</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2893,7 +2893,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_MAX] value to the value of [RANGE_CLICKS_W1_MAX]</Caption>
-          <Id>78277c99-93a7-4223-aa34-e7abb46ab314</Id>
+          <Id>fd730171-6d9b-4193-bf2f-6b9d3897e792</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2928,7 +2928,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_W2_MAX] value to 0</Caption>
-          <Id>494bdea6-4b02-42d3-b472-2ac4698a1024</Id>
+          <Id>2305f0cb-e180-4916-984b-cb455f94f718</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2962,7 +2962,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_W2_LAST] value to 0</Caption>
-          <Id>54a0f4c5-fd67-42a4-8419-c90e4d212105</Id>
+          <Id>86289477-f227-4815-90f4-b9a9addf2f0a</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -2996,7 +2996,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_W3_MAX] value to 3</Caption>
-          <Id>233111eb-87a1-47d7-bb39-e915e1dd0c37</Id>
+          <Id>61fc1653-f57b-4b09-8dac-08d9cbf602e4</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3030,7 +3030,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_W3_LAST] value to 0</Caption>
-          <Id>862f065f-92ee-4a46-8b13-5d029355f3a1</Id>
+          <Id>79e8a4ed-410b-4e8f-be4f-5332ea01a974</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3064,7 +3064,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_MIN] value to 0</Caption>
-          <Id>6e1f33ee-0546-43d0-9239-735b9fc2c204</Id>
+          <Id>ccda61be-d8c7-4950-81b7-d257592f4434</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3098,7 +3098,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [currentWeapon] value to 1</Caption>
-          <Id>e5bf49b3-119b-48f5-8e8c-015ccbbe4350</Id>
+          <Id>fb5b13a4-08c2-4d6b-a633-06ca900674ed</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3132,7 +3132,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Boolean [currentAds] to False</Caption>
-          <Id>1e8d99b1-2b07-466f-8483-99fd8da8982a</Id>
+          <Id>2a71961a-8e74-4348-b7ab-a45d451967b2</Id>
           <ActionType>BooleanSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3169,7 +3169,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [PRIMARY_WEAPON] value to 1</Caption>
-          <Id>7f3b98d5-5446-4814-8127-4307d50a87a8</Id>
+          <Id>7f100c87-624c-4479-81f5-7334c6a2162e</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3203,7 +3203,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [SECONDARY_WEAPON] value to 2</Caption>
-          <Id>3b961d57-edbc-4f43-acac-03e65a4ad157</Id>
+          <Id>d2623fe6-b408-443f-95e3-d4e14095edbf</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3237,7 +3237,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [SECONDARY_WEAPON_TYPE] value to 0</Caption>
-          <Id>bc7aa926-0224-4818-a752-0bd224d2af6d</Id>
+          <Id>581f5914-2f7f-4235-895a-f638a76d5da5</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3271,7 +3271,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [FRAGMENTATION_WEAPON] value to 3</Caption>
-          <Id>702d357b-57ce-4369-95b5-a46ac56b5d5a</Id>
+          <Id>0b58643a-b1c4-4cfe-a3e1-238da4a30cdf</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3305,7 +3305,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [FRAGMENTATION_WEAPON_TYPE] value to 0</Caption>
-          <Id>a772ea17-5b42-491a-8469-b25b2db8ecc5</Id>
+          <Id>3c0f0b9e-3012-4882-bf42-bf1c271d58cd</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3339,7 +3339,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [SMOKE_WEAPON] value to 4</Caption>
-          <Id>8e9b7a83-12a7-4e7d-8517-39108a3e7efe</Id>
+          <Id>98a04f28-19e9-4161-8b1d-dca8b6099b80</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3373,7 +3373,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [HEALTH_WEAPON] value to 5</Caption>
-          <Id>3cb61acc-8d62-40f5-abde-8a2d2e970158</Id>
+          <Id>64c33190-08c4-4a86-a640-750fa954f12a</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3407,7 +3407,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [HEALTH_WEAPON_TYPE] value to 0</Caption>
-          <Id>80ad0a68-5351-49a8-b4e1-a4d540794b24</Id>
+          <Id>cae2aa02-5ef3-4001-8c9c-2f8376d42d40</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3441,7 +3441,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [UTILITY_WEAPON] value to 6</Caption>
-          <Id>4cbc8978-d9f9-48ce-bfc5-04a5c24adf54</Id>
+          <Id>aa3ec36c-5c28-4edf-86b7-063e6cb416f3</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3475,7 +3475,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [UTILITY_WEAPON_TYPE] value to 0</Caption>
-          <Id>4942f8e9-1882-410e-8e7f-0f59356dd9d1</Id>
+          <Id>b87dc1ca-f40d-42ba-afff-b23ef78a3b76</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3509,7 +3509,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Boolean [single_fire] to True</Caption>
-          <Id>10e8340b-cf0a-43dd-932d-93b571495dd9</Id>
+          <Id>0cb5759d-e7d1-4135-9135-68aa4749c2c3</Id>
           <ActionType>BooleanSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3611,7 +3611,7 @@
       <BaseId>3dcec8f8-4b68-4d33-81ce-a61d91a25591</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>ac47614f-9f8f-44ed-b5db-963852b920fd</Id>
+      <Id>4d263492-73b1-4b69-9baf-1eb1e3356e3b</Id>
       <CommandString>((Jump))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -3623,7 +3623,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>2275479c-7cc9-4cd9-a5a2-e61cab58bc54</Id>
+          <Id>3a36bdb9-8988-44d0-bb57-2dcabdf969fb</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -3724,7 +3724,7 @@
       <BaseId>7744f808-c0dd-4a5c-9b6f-1105f2f29bc8</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>d0372c2e-009c-474a-b728-0fe755a35686</Id>
+      <Id>014d54f4-3431-4961-95e9-9e584b03fbe6</Id>
       <CommandString>((Key_1))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -3738,12 +3738,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Setup_Weapon_1))' (and wait until it completes)</Caption>
-          <Id>0d003bab-8331-4544-b06a-9ba2d88389c3</Id>
+          <Id>335643f1-6e38-498e-af6b-af02b47bf217</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>9934fee4-7659-469d-85ef-ae7474916104</Context>
+          <Context>1a985a05-1da1-4d15-ab04-55e52fd7505d</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -3772,7 +3772,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [currentWeapon] value to the value of [PRIMARY_WEAPON]</Caption>
-          <Id>97792e9b-5bda-4876-84e7-13a5bd5399c3</Id>
+          <Id>94fe6a23-334e-494e-b1aa-8cb38a92794a</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -3872,7 +3872,7 @@
       <BaseId>1c3a9abd-7cb8-4115-8520-2c4df9aa1e6b</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>cb81e53c-89b4-4e49-9c91-868813018d01</Id>
+      <Id>bb363cc8-dc19-4c84-8f5f-84a46de3c43e</Id>
       <CommandString>((Key_2))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -3886,12 +3886,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Setup_Weapon_2))' (and wait until it completes)</Caption>
-          <Id>f7607f27-3cc5-4024-9df4-3c1d4aeed659</Id>
+          <Id>410fda4c-b42c-48b9-a09e-c8ee03529b20</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>1d359790-c97a-45e5-a4f9-9c38fe1d319f</Context>
+          <Context>f2b9c656-375f-4920-a1e3-340724505eb9</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -3920,7 +3920,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [currentWeapon] value to the value of [SECONDARY_WEAPON]</Caption>
-          <Id>33b8d547-1779-4d9c-9aea-a968f877d7f5</Id>
+          <Id>a0b2f625-3750-4a6d-98ae-5cd75f3274b4</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4020,7 +4020,7 @@
       <BaseId>55926755-8b9f-42e4-aa9c-9b1d0229d739</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>c2456bde-ca1d-4087-9ccf-2cde941bb7af</Id>
+      <Id>f496ad42-3aaa-4eca-92e9-f15b4fffaefc</Id>
       <CommandString>((Key_3))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4034,12 +4034,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Setup_Weapon_3))' (and wait until it completes)</Caption>
-          <Id>545a5ec3-c247-4f11-a209-9e087e6cd490</Id>
+          <Id>2be344fb-259c-4d4e-8df5-7e680a6284b7</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>dae01953-b11f-43bd-a8e0-770cfa3ab181</Context>
+          <Context>305f88a8-ad6c-41be-b36f-5ad3a48ca09c</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -4068,7 +4068,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [currentWeapon] value to the value of [FRAGMENTATION_WEAPON]</Caption>
-          <Id>5289bf73-a854-4233-8923-714c093d0023</Id>
+          <Id>ab806e8b-55ff-48ca-9246-ed7aeecc5b1d</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4168,7 +4168,7 @@
       <BaseId>7cbfbc5f-a9e4-49de-b52a-7d44e98649aa</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>f49a0986-995e-4673-ae0a-1f96770c1ff0</Id>
+      <Id>473f553e-0d14-441e-81df-fa9ec3ec0784</Id>
       <CommandString>((Key_E))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4182,12 +4182,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Center))' (and wait until it completes)</Caption>
-          <Id>234fd823-9db8-41e2-b358-d7e3cf47cec0</Id>
+          <Id>44e60a9c-1eb7-48fe-854d-fc8f15c4c8af</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>897495c9-b87b-4e79-a8b7-f66ae8188b92</Context>
+          <Context>27258c9a-bb8e-44c2-836e-83be539c8b36</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -4281,7 +4281,7 @@
       <BaseId>5e8051ef-7f08-46e5-8b33-eb5bf34659db</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>e68f93c3-718d-4ecf-b613-2f6558b10a8d</Id>
+      <Id>e7cc3d6c-28c1-41fd-bf5d-e3b5e13f494b</Id>
       <CommandString>((Key_Q))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4295,12 +4295,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Center))' (and wait until it completes)</Caption>
-          <Id>6b40714e-9aa5-4825-ab69-cd7fd09e6cb0</Id>
+          <Id>bbf8df45-9bdf-43ff-8d2b-ecc67c71995f</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>897495c9-b87b-4e79-a8b7-f66ae8188b92</Context>
+          <Context>27258c9a-bb8e-44c2-836e-83be539c8b36</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -4394,7 +4394,7 @@
       <BaseId>19bc590a-6782-4824-bcce-4e4a19a62431</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>897495c9-b87b-4e79-a8b7-f66ae8188b92</Id>
+      <Id>27258c9a-bb8e-44c2-836e-83be539c8b36</Id>
       <CommandString>((Lean_Center))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4406,7 +4406,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>1c71f115-0713-44c7-be89-cb07a7458fa2</Id>
+          <Id>9d30268b-a803-4d45-9449-16f609936df2</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4440,7 +4440,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>0f04ea8e-1687-42fc-900e-b62c52fe15d7</Id>
+          <Id>8a245036-c1f4-4cfd-98bc-10b2480f65a3</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4541,7 +4541,7 @@
       <BaseId>ae07b459-2545-4c18-8c57-4ec5fd44940d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>7c216562-031b-4d36-8858-3fc08a5f2a47</Id>
+      <Id>a37e095f-3e4a-4930-8e09-fda2892baf24</Id>
       <CommandString>((Lean_Left))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4553,7 +4553,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>517c4137-7f09-4b30-a486-d3c60792338b</Id>
+          <Id>7a7989fa-ca22-4c33-9f8c-4d677414d0c6</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4654,7 +4654,7 @@
       <BaseId>3c6ce176-1fa5-4cef-87de-da6c81633c8c</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>9e0da144-cc5e-4918-b5e3-fd6629e2a1b2</Id>
+      <Id>86a8628c-561b-40a9-bfad-d68c3d86ac6e</Id>
       <CommandString>((Lean_Right))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4666,7 +4666,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>1c828c87-e611-4a39-86f6-29d444899638</Id>
+          <Id>0454fda5-181e-4959-98dc-1bdcd5c35c3d</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4767,7 +4767,7 @@
       <BaseId>9ba955b7-8553-424c-8740-37ca6f5ab651</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>6aa96745-1c39-4c16-8254-2aebf9d51b83</Id>
+      <Id>b3865928-db52-4ccd-9a37-750c55719766</Id>
       <CommandString>((Map_Zoom))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4779,7 +4779,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>30a0dc2b-629c-406b-83aa-fd97c42eb66a</Id>
+          <Id>bc6382f9-0494-4a60-9e47-a190d53b92d6</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -4880,7 +4880,7 @@
       <BaseId>b52671f4-c729-403a-92a5-b6c3809187b1</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>6522da99-a1b8-4b2b-b399-da2ae4589f5f</Id>
+      <Id>b3871635-a262-4242-b371-c67793d4a2dd</Id>
       <CommandString>((Open_Radial_Menu))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -4892,7 +4892,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>9ab11432-57ad-4cd5-b241-f7759443333a</Id>
+          <Id>fd28e8fe-5f0a-4bf2-9881-e7bcacd98013</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -4926,7 +4926,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>66d661ff-706c-4eb7-9fb6-73f8324570cc</Id>
+          <Id>53e5fd14-d603-49d7-bd54-c9310026fc75</Id>
           <ActionType>Pause</ActionType>
           <Duration>10</Duration>
           <Delay>0</Delay>
@@ -4957,12 +4957,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>120062ce-d06f-45c9-bcac-eddb94acf589</Id>
+          <Id>25a838c1-5e41-42e4-b975-d950f8c700f5</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>62111d59-c12a-431e-92e6-44924e2addbc</Context>
+          <Context>0d2edf40-ac2b-4e81-8670-e16343773075</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -5056,7 +5056,7 @@
       <BaseId>fa93cbe8-cbe6-42a2-b39c-a59126daa9f8</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>572cbd10-a484-4dc6-a0d5-e432ae719d21</Id>
+      <Id>5ba57a45-3a17-4b79-b2f9-5a0b44e402a2</Id>
       <CommandString>((Open_Use_Menu))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -5068,7 +5068,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>4f4a3a67-3dc0-490d-b9f1-331049cf253d</Id>
+          <Id>d450f3f9-a1bb-4d43-82e4-449a9caaadb2</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5102,7 +5102,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>fdddbe80-61df-4b50-ba7d-492ac4eab4f2</Id>
+          <Id>d97e20c6-7bf9-4797-aa65-b271ffff4e68</Id>
           <ActionType>Pause</ActionType>
           <Duration>10</Duration>
           <Delay>0</Delay>
@@ -5133,12 +5133,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>243ca799-af79-4314-a675-141e5551093e</Id>
+          <Id>11d1ed2d-479a-432a-9d05-b8a3bb04a57b</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>bede1cb4-eebb-4cbf-b50e-84053614f4ba</Context>
+          <Context>9cebc92d-33c3-4497-8197-51fd03127448</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -5232,7 +5232,7 @@
       <BaseId>f8eb6426-f974-4cc6-b774-2ae4b20772ef</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>a3eb7815-b515-40bb-ae49-6f1e2cc53a95</Id>
+      <Id>4e7ad09b-66f0-4684-a20a-b189fdb22e41</Id>
       <CommandString>((Prone))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -5244,7 +5244,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>8adc042e-7f36-4a7e-af3c-a5a52539cbd4</Id>
+          <Id>ae2bf97a-04e1-42ce-b80d-5544efdd0200</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -5345,7 +5345,7 @@
       <BaseId>73f115ae-72c2-4bb3-9ff6-7d7d22fa5a9d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>4e596ec4-46f6-49d8-925b-e2f5d53289ed</Id>
+      <Id>9b83ae35-b72a-4c73-a53c-fd47fa041b39</Id>
       <CommandString>((Range_Decrease))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -5357,7 +5357,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>18f094f5-5a3d-4356-9766-1a7c509b35f5</Id>
+          <Id>07b1d6bf-c87f-4315-8049-a23008b9edab</Id>
           <ActionType>ConditionStart</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5390,7 +5390,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>142e1570-a6e4-43be-b5ef-cbe4e551d327</Id>
+          <Id>e337db31-5050-4fd6-8ad8-e6471db50260</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5424,7 +5424,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>8271c0cd-dd50-41fe-907d-5cb3628bbc40</Id>
+          <Id>f7c877e2-1301-41ea-8705-84fe1df5af4e</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -5455,7 +5455,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>2bdefe70-4613-49d4-8570-fcdb01a26786</Id>
+          <Id>61804023-26aa-4f22-9aca-2010d6994586</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>1</Duration>
           <Delay>0</Delay>
@@ -5487,7 +5487,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>814772d1-69b6-49a8-9b9a-c976e038dda9</Id>
+          <Id>166f47fe-97a0-475a-a081-b27ed17c09a1</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -5518,7 +5518,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f0ed4567-2c18-4c15-8e82-582cb68a5795</Id>
+          <Id>86365908-9318-4b75-8418-b99bd17d0f81</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5552,7 +5552,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>00c9eec9-d618-47f8-8a87-82f4c67518f9</Id>
+          <Id>d3f563b8-2616-4a21-87f4-23f341c99100</Id>
           <ActionType>ConditionEnd</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5650,7 +5650,7 @@
       <BaseId>73d234db-77a2-4c2e-920a-6b5b949bc3ef</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>f808ebb4-2267-4f8f-96eb-a8f78c63e660</Id>
+      <Id>03cf72cc-086f-4c0f-b874-303554017f88</Id>
       <CommandString>((Range_Increase))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -5662,7 +5662,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>7d75f824-2d39-4676-82bf-94bf70800733</Id>
+          <Id>4a6f783a-6846-471c-87b7-92ed29d52043</Id>
           <ActionType>ConditionStart</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5695,7 +5695,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>19960ebd-4f83-4592-85c0-91801416a977</Id>
+          <Id>4abd2aec-4257-4ca6-8f04-7ab08a2816f6</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5729,7 +5729,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>7b35d897-c804-4304-9e5c-9318e2e4458d</Id>
+          <Id>70e27564-c5a7-44bd-89d2-d6c7227c47e4</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -5760,7 +5760,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>ec7227df-018a-45da-a90c-88cdbb7a1475</Id>
+          <Id>11b15562-95ec-45b3-a898-7fa1208c3339</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>1</Duration>
           <Delay>0</Delay>
@@ -5792,7 +5792,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f24b0ab9-f932-475f-85ab-ab0c5b6a683f</Id>
+          <Id>f1d91e82-98ae-4a66-8984-df72732df1ea</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5824,7 +5824,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f57bf811-6624-480e-89b7-897b66d4c94d</Id>
+          <Id>1ac1be35-1340-4e67-97bf-d97b92e0b42c</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -5855,7 +5855,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>e63e6781-92fb-443f-a52b-1270cedb5a4f</Id>
+          <Id>7f84d6b2-a31c-40d9-9028-e22ccabf7b53</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5889,7 +5889,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>8c360a89-a602-440d-aaa6-74bb04be6387</Id>
+          <Id>34e055d1-a0c3-405d-bb20-4b4c64f37e03</Id>
           <ActionType>ConditionEnd</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -5987,7 +5987,7 @@
       <BaseId>7261010b-889d-4bc2-8a83-7bba92baa589</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>984ca82f-dfd7-4718-be02-482d72fc23e7</Id>
+      <Id>11f21aa0-c5f9-46b9-9939-92b915ececbb</Id>
       <CommandString>((Select_Chat_All))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -5999,7 +5999,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>207fb6cb-df39-405f-be72-5f708a22ec41</Id>
+          <Id>1d4ecead-9645-4296-8a31-ee44c057f04f</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -6100,7 +6100,7 @@
       <BaseId>565d1580-9b9f-481b-bce3-dc29a5d1b6ac</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>3a443524-1a4b-43f9-8c9c-20da3422ee1a</Id>
+      <Id>466285d9-9c33-4672-9d67-28a1a1657e20</Id>
       <CommandString>((Select_Chat_Squad))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6112,7 +6112,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>ab8cdc9d-bbb9-42a1-9fcb-833dd1a79b78</Id>
+          <Id>ac1e6e37-45d8-4f05-9276-91c51cc06077</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -6213,7 +6213,7 @@
       <BaseId>4dd41056-046a-4b70-86ac-814b736d0451</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>2e1d7517-cc50-4e86-8d3b-e763f2bc2834</Id>
+      <Id>2aaf7da6-4179-4970-a5b5-fa506a248653</Id>
       <CommandString>((Select_Chat_Team))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6225,7 +6225,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>92cb2e06-c114-4202-b07b-02ce96e20ae4</Id>
+          <Id>923bf47b-793b-4f7d-b322-71d053838d40</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -6326,7 +6326,7 @@
       <BaseId>7891a349-dfc1-4108-8535-3a9129df74f8</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>852ae169-d913-4b13-a75c-f25ecb7e8e8d</Id>
+      <Id>a84525a0-874d-4e80-8605-0a897a61589c</Id>
       <CommandString>((Select_Weapon_1))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6338,7 +6338,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>4b61b735-5555-4226-8396-26e68109e6a0</Id>
+          <Id>a402c750-d174-4fc5-b3f3-cb4ce4f403a1</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -6439,7 +6439,7 @@
       <BaseId>9bed4d34-7f42-44a7-b2b5-9272b8b24bf1</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>9da55777-05c1-4d0b-8f34-9924f5870b10</Id>
+      <Id>b8d15da5-9e41-4695-89db-81c83beff5c8</Id>
       <CommandString>((Select_Weapon_10))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6451,7 +6451,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>a102c501-3119-4929-93d7-da3a4c2fcd23</Id>
+          <Id>008fccd1-5f8e-4a81-8840-a1630338a98d</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -6552,7 +6552,7 @@
       <BaseId>900b477e-8220-464f-bc9e-18c0d4fac155</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>74da37f9-2632-4ae7-a2fd-e50b5a55d2c6</Id>
+      <Id>ce65525f-a6ff-4e59-931f-4472a2f444fb</Id>
       <CommandString>((Select_Weapon_2))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6564,7 +6564,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>554ed507-1137-4a13-a04e-f9a28fb92e43</Id>
+          <Id>1442b488-8285-49d5-b76e-71e4ff4ce486</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -6665,7 +6665,7 @@
       <BaseId>b8a59540-d6bb-432b-bf0f-f8c9f8eb6b85</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>38bb4328-a3f8-43c6-9425-d27dd94b2a49</Id>
+      <Id>65d7266c-0d36-400c-b7cb-b84dc892b92c</Id>
       <CommandString>((Select_Weapon_3))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6677,7 +6677,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>308d6791-1d93-414c-a546-ba87484b0dac</Id>
+          <Id>2f1ad06f-746f-49b5-a361-1a1fac77da87</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -6778,7 +6778,7 @@
       <BaseId>1daadd01-31e2-43ad-b519-7f09c4ccd79b</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>0409664c-6c0a-42fa-b5d5-f04b3bd6552a</Id>
+      <Id>1f02ef1b-4c5b-46b4-b86b-4f5184a48155</Id>
       <CommandString>((Select_Weapon_4))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6790,7 +6790,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f6e437d5-97e3-4925-b525-4dbcb6f12dab</Id>
+          <Id>bf966d2a-772c-48ce-972d-d53612e0c10b</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -6891,7 +6891,7 @@
       <BaseId>874e7c4c-89bf-485a-9bad-c8e1532d8219</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>20411f23-73af-4cd9-99cb-b713ed102db7</Id>
+      <Id>dd89ea3d-de2a-4ab1-84fe-9e0bb6866496</Id>
       <CommandString>((Select_Weapon_5))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -6903,7 +6903,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>caed82ce-8b3c-477e-b134-795c0078441f</Id>
+          <Id>3759210a-9fb0-4642-a10a-0984e50620de</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -7004,7 +7004,7 @@
       <BaseId>e36f3052-0e2d-45a4-9795-cdfd1e08b85c</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>460a6537-602b-48b1-9e32-4e76f13f9e3d</Id>
+      <Id>76c5e762-fa6a-403b-86c2-cf9460936ff4</Id>
       <CommandString>((Select_Weapon_6))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7016,7 +7016,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>268e96d2-6f64-4da3-b563-bd82f2e70359</Id>
+          <Id>a9886be9-03a1-4235-b6dc-f4cbd32bdfe4</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -7117,7 +7117,7 @@
       <BaseId>c1017ab4-7cce-4af1-a253-bfe7debec432</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>9dd6553c-295f-4975-ba9e-350041d4010f</Id>
+      <Id>1bf53925-4ae8-4fee-9cd1-fd2eede54870</Id>
       <CommandString>((Select_Weapon_7))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7129,7 +7129,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>3693abb2-ca7d-4fff-b76f-a0f8653195ef</Id>
+          <Id>95938009-d6b7-49fd-95c9-597427f0223f</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -7230,7 +7230,7 @@
       <BaseId>e2c13f72-7446-4a4e-ac20-8779ce9892ff</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>1207f8d3-d79f-4d07-9a2d-fa29806afe75</Id>
+      <Id>9706d613-c7bb-4da2-9849-341a1b5fbb2e</Id>
       <CommandString>((Select_Weapon_8))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7242,7 +7242,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>082b01c0-bbb4-4aa1-a439-96d60112cce4</Id>
+          <Id>ccd896d3-a6c5-4209-97bf-e17c98cecbc2</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -7343,7 +7343,7 @@
       <BaseId>d7cc9e9e-2f8a-465a-8fae-b0e71766d762</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b6cd0e5f-419c-49c1-87e2-2737fec23a0e</Id>
+      <Id>52ab23ce-d985-4165-aee4-406bb2344001</Id>
       <CommandString>((Select_Weapon_9))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7355,7 +7355,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>b364e9d0-1904-4c88-b62c-c1d46913b5ad</Id>
+          <Id>7aca955c-6a67-45db-9393-529c2053f534</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -7456,11 +7456,11 @@
       <BaseId>92e35a62-a3ad-4fb9-8f6b-b7ef6c2ce779</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b71b697f-2cba-463e-a50d-07a761901bf7</Id>
+      <Id>3c21b0c6-093f-4caf-aa32-78d4c1b640ed</Id>
       <CommandString>((Set_Fire_Select_Variable_Alt))</CommandString>
       <ActionSequence>
         <CommandAction>
-          <_caption>Set Boolean [singleFire] to False</_caption>
+          <_caption>Set Boolean [single_fire] to False</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>0</Ordinal>
@@ -7469,13 +7469,13 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Set Boolean [singleFire] to False</Caption>
-          <Id>27578af4-a03e-41f1-a725-a165db8d5ca7</Id>
+          <Caption>Set Boolean [single_fire] to False</Caption>
+          <Id>05a809fd-e490-4af7-a960-9475b6d845d6</Id>
           <ActionType>BooleanSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>singleFire</Context>
+          <Context>single_fire</Context>
           <Context2 />
           <Context3 />
           <Context4 />
@@ -7540,7 +7540,7 @@
       <MouseUpOnly>false</MouseUpOnly>
       <MousePassThru>true</MousePassThru>
       <joystickExclusive>false</joystickExclusive>
-      <lastEditedAction>00000000-0000-0000-0000-000000000000</lastEditedAction>
+      <lastEditedAction>6b1caaee-e658-4369-b153-cc76760dd4c7</lastEditedAction>
       <UseProfileProcessOverride>false</UseProfileProcessOverride>
       <ProfileProcessOverrideActiveWindow>false</ProfileProcessOverrideActiveWindow>
       <RepeatIfKeysDown>false</RepeatIfKeysDown>
@@ -7572,7 +7572,7 @@
       <BaseId>5990c892-eadb-4b65-8c8a-86049d5a6ec9</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>107d6e28-a73e-41ee-a1df-4e1cb52e7ae6</Id>
+      <Id>98b1c086-9927-47e9-b5f3-061800684cc3</Id>
       <CommandString>((Set_Fire_Select_Variable_Single))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7586,7 +7586,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Boolean [single_fire] to True</Caption>
-          <Id>0730f675-3fa7-4f92-b133-f062a34b3903</Id>
+          <Id>b9a3cc9d-89a6-4e82-969f-f2d41bdc3fe7</Id>
           <ActionType>BooleanSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -7688,7 +7688,7 @@
       <BaseId>c0c6de57-1c51-4fcc-a9c7-ca6079ca8b07</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>9934fee4-7659-469d-85ef-ae7474916104</Id>
+      <Id>1a985a05-1da1-4d15-ab04-55e52fd7505d</Id>
       <CommandString>((Setup_Weapon_1))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7702,7 +7702,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_MAX] value to the value of [RANGE_CLICKS_W1_MAX]</Caption>
-          <Id>3d4308c0-ea09-4dd4-a4cb-83fcb34e326c</Id>
+          <Id>3d0309bd-cec2-4486-a420-500d2ba89c0d</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -7737,7 +7737,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [rangeClicks] value to the value of [RANGE_CLICKS_W1_LAST]</Caption>
-          <Id>a562ca78-b36e-4918-b01c-0873642ac08b</Id>
+          <Id>2e11356a-97b1-4d4a-96c9-12c35bf3446c</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -7837,7 +7837,7 @@
       <BaseId>dec74b5a-5e13-4ea5-9545-acb243bfbe71</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>1d359790-c97a-45e5-a4f9-9c38fe1d319f</Id>
+      <Id>f2b9c656-375f-4920-a1e3-340724505eb9</Id>
       <CommandString>((Setup_Weapon_2))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -7851,7 +7851,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_MAX] value to the value of [RANGE_CLICKS_W2_MAX]</Caption>
-          <Id>f4162fb2-f7cd-46a8-b5da-3e043199dc69</Id>
+          <Id>3326645f-2f23-4d68-b197-0757400e474a</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -7886,7 +7886,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [rangeClicks] value to the value of [RANGE_CLICKS_W2_LAST]</Caption>
-          <Id>242e4b8c-3e38-4a1d-8b1a-fbc6d9bc44fc</Id>
+          <Id>bd50bb45-c169-4996-aa3c-f69efe33a99d</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -7986,7 +7986,7 @@
       <BaseId>024d8f73-ee3d-45a9-a0a6-5f984a1267a9</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>dae01953-b11f-43bd-a8e0-770cfa3ab181</Id>
+      <Id>305f88a8-ad6c-41be-b36f-5ad3a48ca09c</Id>
       <CommandString>((Setup_Weapon_3))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8000,7 +8000,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [RANGE_CLICKS_MAX] value to the value of [RANGE_CLICKS_W3_MAX]</Caption>
-          <Id>910a1be5-d161-4c06-a746-90a2de50b6cb</Id>
+          <Id>87ff2db8-4fbb-481d-a8fb-3cd26f964412</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -8035,7 +8035,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set small int (condition) [rangeClicks] value to the value of [RANGE_CLICKS_W3_LAST]</Caption>
-          <Id>ab3dfb57-5ed3-465c-99b7-1b18856afc52</Id>
+          <Id>c00ea60c-0b19-43e1-9f5a-7f403cdbbd2f</Id>
           <ActionType>ConditionSet</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -8135,7 +8135,7 @@
       <BaseId>9513f1bb-d137-4a12-88de-56a9952dab69</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>ab795cf8-0a59-4d60-ad73-8537387a8681</Id>
+      <Id>10870572-f41e-4cc0-b2d8-8bda61866fce</Id>
       <CommandString>((Show_Map))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8147,7 +8147,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>6b9a9ec1-1c13-431d-89f2-4296e74ac925</Id>
+          <Id>665c44cd-c6eb-407c-9d1a-1ac6fbc78a5b</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -8248,7 +8248,7 @@
       <BaseId>59bb99bc-4811-46ac-a67a-a1a8ca1bdb99</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>d2c2b8c6-737d-45e1-ad0f-59cacf9be755</Id>
+      <Id>19379d06-f192-4dfd-b00e-7335271b45c2</Id>
       <CommandString>((Toggle_Crouch))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8260,7 +8260,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>8d75a63d-da88-4751-b1a3-cd028510a162</Id>
+          <Id>81ceef96-ebe4-4f9c-ac68-56f4b94cc1bb</Id>
           <ActionType>KeyToggle</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -8361,7 +8361,7 @@
       <BaseId>ecd77d34-07c9-42d7-a021-c58bda3afc9a</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>d987b63a-a999-45cf-9ded-44e498fc9cbc</Id>
+      <Id>54239029-985e-4d6b-8058-18104283b12d</Id>
       <CommandString>((Toggle_Deployment_Menu))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8373,7 +8373,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>7a772e6b-1398-4167-9f98-81c95c37ca0c</Id>
+          <Id>c0a7da2e-6983-495c-9afc-7206c7f7378d</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -8474,7 +8474,7 @@
       <BaseId>b03a32fc-6229-47e2-a999-71a6620bba74</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>fab296dc-c3b6-4831-bc77-f60fa4fcbed5</Id>
+      <Id>d93472a1-dd6a-4cab-82c1-4644eb20e1b0</Id>
       <CommandString>((Toggle_Lean_Left))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8486,7 +8486,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>cc8bef3b-ea88-41c4-be81-3f7c889bc8b9</Id>
+          <Id>529757af-4ac3-4cbd-8a21-b1c092af7dcd</Id>
           <ActionType>KeyToggle</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -8587,7 +8587,7 @@
       <BaseId>17d3ae9c-ac81-4833-ad4d-e30589c1126d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>644ff15d-edc6-4440-8f84-26e99a4efbe9</Id>
+      <Id>bb2b342d-e186-4d12-95ec-edaf2629f455</Id>
       <CommandString>((Toggle_Lean_Right))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8599,7 +8599,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>5230e020-b88f-40e2-b354-b1585bc6c2bc</Id>
+          <Id>642652ce-d3f5-48e1-941d-d3e06875f044</Id>
           <ActionType>KeyToggle</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -8700,7 +8700,7 @@
       <BaseId>e85ba389-8f7e-4b1a-94c8-3c597bd53eef</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b69983d2-0bd1-47ff-9ecc-523bf325835b</Id>
+      <Id>35b998e8-2d74-42dd-b846-f25ddbb29087</Id>
       <CommandString>((Toggle_Map))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8712,7 +8712,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>2cb3e282-80f7-43c6-a3d3-470ba503010d</Id>
+          <Id>dfb30100-5181-4aef-92df-5241bcda5c94</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -8813,7 +8813,7 @@
       <BaseId>111ba076-7001-4bdb-a37b-8ea9572aedab</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>ce192552-e556-4697-a75a-8a4d13b7ac47</Id>
+      <Id>dbf63078-cdd6-4631-a700-edbceb217cdf</Id>
       <CommandString>((Toggle_Prone))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8825,7 +8825,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>968f1bf7-d5f4-4ec7-a1a5-ebbd751ec49a</Id>
+          <Id>0ec70e88-0c95-4e01-832a-2f7ddc03e1c4</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -8926,7 +8926,7 @@
       <BaseId>15e7dcda-18e5-4e36-8e94-d8af17d7aa37</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>61130d6e-5612-4ed3-b5b4-f2885deaf334</Id>
+      <Id>a025d12e-0910-4a6d-a3e7-6807821ab470</Id>
       <CommandString>((Toggle_Walk))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -8938,7 +8938,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>7cce8173-a13c-48c0-bb0c-24adebe6253b</Id>
+          <Id>2e6c4399-4f02-4999-a360-4aa976db6819</Id>
           <ActionType>KeyToggle</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -9039,7 +9039,7 @@
       <BaseId>940d4b6c-45db-4b84-b918-5b51ffbfe808</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>eecf7f7f-d4a0-4525-8551-795522946517</Id>
+      <Id>d578a691-c60d-4de5-99c5-54106251cdac</Id>
       <CommandString>((Turret_Stabalization))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9051,7 +9051,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>791d79c4-dc2b-4680-ae5e-4c070006c443</Id>
+          <Id>f91322d2-5072-4080-8cd3-a01a7f88bc8f</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -9152,7 +9152,7 @@
       <BaseId>67d410a8-d49d-45dc-95e3-9c01365b81f6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>64050151-515c-45a8-a812-44f0557ab7df</Id>
+      <Id>1f624a68-9484-4d20-9e8e-9f4d3386f1aa</Id>
       <CommandString>((Use_Object))</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9164,7 +9164,7 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>88e4f968-19db-43f0-b178-c74be3475c4c</Id>
+          <Id>c8e8890e-7070-4cf0-9991-f3aa21b6a30d</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.2</Duration>
           <Delay>0</Delay>
@@ -9265,7 +9265,7 @@
       <BaseId>f988ce8c-e64e-414e-84ce-3d40633b6dc4</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>23ffd385-56d6-408f-8f53-9beb8c8a5468</Id>
+      <Id>17fff020-3884-4ba8-b30c-a8e1dc1f58f6</Id>
       <CommandString>[alternate;alter;alt;auto;semi][fire;mode;select];[fire;mode;select][auto;semi]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9279,12 +9279,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Fire_Select_Alt))' (and wait until it completes)</Caption>
-          <Id>c1575f4f-39ec-42cb-b1d5-d8aff7aa1fc3</Id>
+          <Id>5c1f7324-de85-4347-9364-a32fae6a2ce6</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>69d88021-6058-4793-b50c-93d4fd92f8f2</Context>
+          <Context>cc92d60c-9873-4e4a-bfbd-bf504764c0ff</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9378,7 +9378,7 @@
       <BaseId>8758c9d6-3643-4d5d-b2cd-7393d8b939f9</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>30fec347-b9e3-4a46-8171-2ca9b8b18e0a</Id>
+      <Id>f3e90026-e849-4535-ad8e-00d0cead1329</Id>
       <CommandString>[close;drop;disable;deselect][radial;build;emplacement][menu]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9390,12 +9390,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>12aaffa7-e858-4720-9887-7fc1467b6956</Id>
+          <Id>7ecc5565-6748-4c78-83f4-7755aef09ba6</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>62111d59-c12a-431e-92e6-44924e2addbc</Context>
+          <Context>0d2edf40-ac2b-4e81-8670-e16343773075</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9489,7 +9489,7 @@
       <BaseId>15abc566-acd6-4c8a-b778-f0d5a5d551bc</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>3863648f-17da-4ad7-8d1c-6d2ecb826511</Id>
+      <Id>18af6622-2b48-4cf2-b0f1-bd4b12039b7b</Id>
       <CommandString>[fire select;select fire;fire mode] is [on;] single;single [fire;] is [on;selected;enabled]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9503,12 +9503,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Set_Fire_Select_Variable_Single))' (and wait until it completes)</Caption>
-          <Id>c349ee4c-a942-49f2-8b36-9ecd06c32872</Id>
+          <Id>af39e2e4-3dfc-44e1-938b-0d1b4911c9e2</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>107d6e28-a73e-41ee-a1df-4e1cb52e7ae6</Context>
+          <Context>98b1c086-9927-47e9-b5f3-061800684cc3</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9602,7 +9602,7 @@
       <BaseId>94da061d-53b2-47ea-b77a-8241f59d7a9f</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>1aa04473-aac5-4fdf-9c51-14fc9330c2f9</Id>
+      <Id>fbb6d05a-956a-41b6-841c-d42914004f84</Id>
       <CommandString>[fire][select];[select][fire]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9616,12 +9616,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Fire_Select_Toggle))' (and wait until it completes)</Caption>
-          <Id>a6178726-abc2-4174-baf2-6f36c7827d4b</Id>
+          <Id>9ea13da2-ba2f-4b85-b038-81dcd2db7662</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>7af6a145-44e3-4df8-abad-e5b9caf89bc2</Context>
+          <Context>7882905e-7494-4a33-9e9c-1f16d0c89bf9</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9715,7 +9715,7 @@
       <BaseId>8a71a3fc-3378-480d-971a-be59ad7af45d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>187b264d-448b-475b-a24d-62f873780896</Id>
+      <Id>9440995c-b41a-4c50-a942-c104879c0dd5</Id>
       <CommandString>get in; use</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9727,12 +9727,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>0085c964-abc9-4971-b045-d98416b8d7fb</Id>
+          <Id>ddd67909-639e-4a43-9642-5780c886ad96</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>64050151-515c-45a8-a812-44f0557ab7df</Context>
+          <Context>1f624a68-9484-4d20-9e8e-9f4d3386f1aa</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9826,7 +9826,7 @@
       <BaseId>72f83f1a-4404-4485-874d-6c054b30b23d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>7c683148-fe38-4c7e-9022-ed16c1d4e945</Id>
+      <Id>0fe48906-4255-4453-8565-01883856be31</Id>
       <CommandString>[lean][left];[left][lean]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9840,12 +9840,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Center))' (and wait until it completes)</Caption>
-          <Id>18aca349-ec42-438d-b828-7e1b91b52721</Id>
+          <Id>f0d6e402-4566-4a6c-b517-70378398e0b7</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>897495c9-b87b-4e79-a8b7-f66ae8188b92</Context>
+          <Context>27258c9a-bb8e-44c2-836e-83be539c8b36</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9874,12 +9874,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Left))' (and wait until it completes)</Caption>
-          <Id>a957f628-48eb-45c5-9153-2c5f9d2b2269</Id>
+          <Id>5703423d-64c5-43e6-bec0-4ade1d2e84be</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>7c216562-031b-4d36-8858-3fc08a5f2a47</Context>
+          <Context>a37e095f-3e4a-4930-8e09-fda2892baf24</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -9973,7 +9973,7 @@
       <BaseId>a0841d9e-02c1-4d7c-973a-d2e639ac678c</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>be81eb31-b05b-41b8-84ea-5ca7912cb590</Id>
+      <Id>5dc21e54-2339-4ca5-9162-a260056e91ec</Id>
       <CommandString>[lean][reset;center;middle];[stop;halt;center;middle;reset][lean];[center]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -9987,12 +9987,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Center))' (and wait until it completes)</Caption>
-          <Id>b31c0574-b0c7-430e-81e1-f2aba0ef6b45</Id>
+          <Id>02f5afcb-9bfe-4177-ada8-4ff213953ba5</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>897495c9-b87b-4e79-a8b7-f66ae8188b92</Context>
+          <Context>27258c9a-bb8e-44c2-836e-83be539c8b36</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10086,7 +10086,7 @@
       <BaseId>4f8c905f-11cf-4273-ace7-805013b7aff3</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>0852bce0-eb0a-4a66-b66e-6777eb479509</Id>
+      <Id>7758907c-8df6-4e4d-85b4-e8330ca7a0af</Id>
       <CommandString>[lean][right];[right][lean]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10100,12 +10100,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Center))' (and wait until it completes)</Caption>
-          <Id>dd4883fc-a3b7-4ac6-9fc5-54888f858c60</Id>
+          <Id>2d392295-53fc-4f79-ac18-5ccc2b576b6a</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>897495c9-b87b-4e79-a8b7-f66ae8188b92</Context>
+          <Context>27258c9a-bb8e-44c2-836e-83be539c8b36</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10134,12 +10134,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Lean_Right))' (and wait until it completes)</Caption>
-          <Id>e876472a-2a2d-430e-b044-9e3787000bec</Id>
+          <Id>4b041dbf-0730-46c1-9293-cefdf2d514cb</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>9e0da144-cc5e-4918-b5e3-fd6629e2a1b2</Context>
+          <Context>86a8628c-561b-40a9-bfad-d68c3d86ac6e</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10233,7 +10233,7 @@
       <BaseId>56b26748-fb86-4b69-b45b-82445e896388</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>c457743a-0bde-48c4-b895-7c38be8cf9e9</Id>
+      <Id>8f7bd72d-e902-47ec-87e2-7cb40ff195a2</Id>
       <CommandString>[main;primary][weapon;gun];[assault;][rifle]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10247,12 +10247,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Select_Weapon_1))' (and wait until it completes)</Caption>
-          <Id>9f313596-043c-47ad-b4c0-bb1543827bcd</Id>
+          <Id>9bd85bd2-8bbe-41a5-9583-b2103b563d66</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>852ae169-d913-4b13-a75c-f25ecb7e8e8d</Context>
+          <Context>a84525a0-874d-4e80-8605-0a897a61589c</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10346,7 +10346,7 @@
       <BaseId>7e941eb5-bf05-42d8-9fe0-444abffb3198</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>caaee625-78d3-47e8-840e-38ae3dbf1bdb</Id>
+      <Id>fd0bf559-aad1-4669-ab58-134f869d01c6</Id>
       <CommandString>[open; close] [deployment; menu]; deployment menu</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10358,12 +10358,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>68a35ddf-b920-4932-81f9-a63b4c4a7bab</Id>
+          <Id>ed96fd2e-b6f3-472f-9ea6-4d87c678c78d</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>d987b63a-a999-45cf-9ded-44e498fc9cbc</Context>
+          <Context>54239029-985e-4d6b-8058-18104283b12d</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10457,7 +10457,7 @@
       <BaseId>1d1b468a-6c37-427b-96df-ff04ad683df9</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b95ba20e-765b-4214-835d-7a9db30cb067</Id>
+      <Id>d1be6313-4d26-4fed-a916-ca167a7becc5</Id>
       <CommandString>[open;show;enable;select][radial;build;emplacement][menu]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10469,12 +10469,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>621e2ec4-e498-4877-bdf6-4ff957b6ecf3</Id>
+          <Id>04d4e8ee-cb8e-4b96-8487-ff3cddd04bd0</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>6522da99-a1b8-4b2b-b399-da2ae4589f5f</Context>
+          <Context>b3871635-a262-4242-b371-c67793d4a2dd</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10568,7 +10568,7 @@
       <BaseId>f7717ba8-edb6-449e-8a2f-563b746bf616</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>7cf9c5e6-f162-4fad-97ae-d2d77a1e013f</Id>
+      <Id>2dd5b713-afee-4394-afc2-6f8adceacf04</Id>
       <CommandString>[radio;call][command;the voices in my head]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10580,12 +10580,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>a2d610e8-dd15-4280-860c-a3e554f3e44b</Id>
+          <Id>a7b361e1-6224-4e60-8152-10dfadf235d4</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>6b1baad6-6a59-49db-9505-a6ddee51e352</Context>
+          <Context>42b01bdf-7560-4cac-8aa2-cbb7dee52cf2</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10679,7 +10679,7 @@
       <BaseId>6f16b491-594e-4ecc-89fb-e4c43563ccbd</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>344c9eca-2729-4de8-9398-09e9688cf57c</Id>
+      <Id>e0cbcbd1-c810-4cbe-94b3-d1d3f9f9ecd2</Id>
       <CommandString>[radio;call][out;local;nearby]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10691,12 +10691,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>f836cb64-c45c-4ab9-b71d-3398c298cd05</Id>
+          <Id>21d0bba0-5d04-41a4-8fdc-2190872ac2a7</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>74be4bb5-b0c6-4cac-a06e-83ae51c22dc6</Context>
+          <Context>bc12f15e-128b-4dea-82aa-3c911d20a316</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10790,7 +10790,7 @@
       <BaseId>cd77a1b4-b133-4d9c-b81f-4d46ab601196</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>858f9cb1-72e1-4b50-b113-f611228b2a69</Id>
+      <Id>4e834e2e-899f-4fe3-a301-81b5aeca3d62</Id>
       <CommandString>[radio;call][squad]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10802,12 +10802,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>2cff4cb4-e03a-4b59-8754-43326ff65668</Id>
+          <Id>c32ffb67-db20-4f01-a0e4-b5bad1af11b5</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>82ec1468-25b2-4893-af44-3a1cb3af3644</Context>
+          <Context>099f2b43-e2ea-4764-8f6c-12718b4b1c9a</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -10901,7 +10901,7 @@
       <BaseId>9a1f8be8-e678-4809-b67d-40803a618a41</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>5d029c20-f58a-4b6c-8773-180d520ef0db</Id>
+      <Id>ab0af79f-7909-4a0a-bec2-b2c96e488a9c</Id>
       <CommandString>[radio;call][squad][lead;][eight;8]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -10913,12 +10913,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>9f14c2e8-6f0f-4d11-a562-5374b0bb8371</Id>
+          <Id>39c39f99-35e7-41c2-9f16-751f0d89a5aa</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>d22348e0-2bf4-41d7-a519-b51d1141a551</Context>
+          <Context>4b7e3859-f085-45f1-a25d-4bcacec0ddae</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11012,7 +11012,7 @@
       <BaseId>2c2a8869-aeef-4e81-8670-b3979aa67c40</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>5b539a60-c691-40e1-a7ae-d9d25fed1ae9</Id>
+      <Id>498f87ec-867b-4751-a748-060c2803247f</Id>
       <CommandString>[radio;call][squad][lead;][five;5]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11024,12 +11024,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>ce210e0e-8d90-45fb-82db-21f7a33e8947</Id>
+          <Id>dd0ac698-1d24-4efd-89c2-732771a7ff68</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>04976030-ba89-438b-88c7-9c9029686839</Context>
+          <Context>c6fe54a3-ae7f-442e-8911-aab06b9fee85</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11123,7 +11123,7 @@
       <BaseId>7b8a67d3-c511-42c4-a49d-10fbf0ee427e</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>a46deff2-324a-45aa-84de-cbadf14d79a5</Id>
+      <Id>94d7bc40-62ea-434e-a530-90adcb7cd36c</Id>
       <CommandString>[radio;call][squad][lead;][four;4]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11135,12 +11135,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>a409b329-987a-4588-9578-fe54e37aa1ce</Id>
+          <Id>99be0dab-f2d0-43ea-b100-7ddbed3b8489</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>c8185f4d-d6de-45c5-9423-b9cb8c35de00</Context>
+          <Context>5c5a87a2-0960-445e-a91e-01f97d1e25ba</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11234,7 +11234,7 @@
       <BaseId>1a83c0d4-47fe-492c-a3b3-05816344321e</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>b93ca530-93ba-4fa7-a5e1-61f9481cbda3</Id>
+      <Id>0cdce7fe-4a97-4256-82b6-aeddc0367a5c</Id>
       <CommandString>[radio;call][squad][lead;][nine;9]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11246,12 +11246,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>32a9d3ed-303b-4c67-bd05-3c7b804de882</Id>
+          <Id>cb325eb3-9bab-46b3-83e3-6ea570dbb1f3</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>b054b4cf-cf70-4529-9d4a-aedf4717b39e</Context>
+          <Context>d49c8529-da22-4595-9554-76ac21fa4529</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11345,7 +11345,7 @@
       <BaseId>d8c2e738-bc7f-455a-863b-9901bf4a77f6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>6fff79b5-12b7-4c98-91f6-a1be39b55f85</Id>
+      <Id>8453b0e3-c089-4ee9-885b-00b6798fe075</Id>
       <CommandString>[radio;call][squad][lead;][one;1]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11357,12 +11357,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>ae5f0923-c59b-4d23-a616-b1096a39806c</Id>
+          <Id>af837301-3d8a-4631-a372-ec9c67a2201a</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>66beb453-75ef-41a8-932f-acbddd6be402</Context>
+          <Context>974397b8-f23c-4623-af8d-f0d939e461c7</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11456,7 +11456,7 @@
       <BaseId>2fba020a-64e8-4989-ad5d-f666e5fe0ee6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>cc72940d-6157-474e-939b-1e0601703908</Id>
+      <Id>b146fb92-3d3f-4ae1-a60b-b0df6e9ff2ce</Id>
       <CommandString>[radio;call][squad][lead;][seven;7]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11468,12 +11468,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>bcde3612-19e6-4886-954c-2e231292bfcf</Id>
+          <Id>966dee51-0531-4847-85fb-7b495cfd3204</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>b149f785-dc3d-4e0c-887b-3c6fde0fe79f</Context>
+          <Context>3a255303-ff0f-48ac-b5ca-25383cce937d</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11567,7 +11567,7 @@
       <BaseId>b8f728d3-87fd-4166-8f2e-4865e8b6fbc0</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>6cbed6f0-94f0-4cad-b10e-c410d57c2083</Id>
+      <Id>422a651c-57cb-4e7e-8b54-a6ebb0b52579</Id>
       <CommandString>[radio;call][squad][lead;][six;6]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11579,12 +11579,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>fe1bb09b-200a-45d7-8008-16f7a07fef42</Id>
+          <Id>8a78ff50-978a-48ae-b923-5e35912b3d5e</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>a63d26cc-8ecb-4905-bb6c-dba5bf667e9e</Context>
+          <Context>4c3ab92d-7a92-4c62-b665-e1c59dbf0b85</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11678,7 +11678,7 @@
       <BaseId>38ec3b39-5ce2-41d7-8bce-d6e614c4371d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>5909e5c5-85e4-42cc-a38e-c36ad15d9ade</Id>
+      <Id>59994735-daa9-439d-be3a-827d0ddabb4f</Id>
       <CommandString>[radio;call][squad][lead;][three;3]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11690,12 +11690,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>20b76bce-bd04-4694-b0ab-4545f2f0cd1e</Id>
+          <Id>c6ea87a4-6c89-4360-85d5-9a5fa38577d1</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>0249bbc9-0a71-4a23-ba5d-c841e161ce25</Context>
+          <Context>d1439ded-ce2a-4f50-89c6-4103c7c857a5</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11789,7 +11789,7 @@
       <BaseId>0405e060-8857-43f5-9c60-47dc22678f7d</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>be3436fb-3a23-46a5-a509-00d33072be9b</Id>
+      <Id>dbbb35a0-c27c-4286-9e32-3ab31e63396e</Id>
       <CommandString>[radio;call][squad][lead;][two;2]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11801,12 +11801,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>dc4bc303-7f1f-43b5-8e88-d8c0876d4773</Id>
+          <Id>81b247b4-6ebe-45c5-8ed1-61daff81f752</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>121a4d17-5ba4-4d0c-a3f4-d6372496d620</Context>
+          <Context>8c2fa557-0b5c-4964-ab09-f9c6ff7d1f75</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -11900,7 +11900,7 @@
       <BaseId>925f7f3b-05aa-4c85-ac93-e87ca9e3489f</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>cbad4241-d62f-4b17-a7bd-2725020f0135</Id>
+      <Id>a252dc11-8e6a-4328-9117-3958a70779d6</Id>
       <CommandString>[roger;copy;over][out;];[sounds good]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -11912,12 +11912,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>a9e7893c-d627-41af-8c9f-cbcc4c50c52d</Id>
+          <Id>3a13025b-8320-4f69-9d40-af6803717cec</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>0f2d5c22-a1f5-4dda-bec4-41a9f11b403f</Context>
+          <Context>e9e44133-dc4d-4f40-aea2-fc68795a3071</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -12011,7 +12011,7 @@
       <BaseId>57d81517-e710-40ab-ba54-f3ee1600669c</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>7d33136a-23d2-4161-bc04-a958d11c03f1</Id>
+      <Id>eb5a753f-ebe5-44ed-af3b-4e84866a3a6a</Id>
       <CommandString>[select fire; fire select; fire mode] is [on;] [alternate;alt;auto;semi;alter];[alternate;alt;auto;semi] [fire;mode] is [on;enabled;selected]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -12025,12 +12025,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Set_Fire_Select_Variable_Alt))' (and wait until it completes)</Caption>
-          <Id>d197fd3a-226c-4320-a57c-5bab977db426</Id>
+          <Id>03f2b1e2-ac62-4627-a237-18c21d5aacc1</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>b71b697f-2cba-463e-a50d-07a761901bf7</Context>
+          <Context>3c21b0c6-093f-4caf-aa32-78d4c1b640ed</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -12124,7 +12124,7 @@
       <BaseId>36b7d448-11a5-4a63-889b-2b0d9566b58e</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>50cc4d32-6676-494e-8bb4-a1d7d2aa625f</Id>
+      <Id>16001bb8-5ca6-443c-9bf3-9e477eb7cc9f</Id>
       <CommandString>[show;display] [options;storage]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -12136,12 +12136,12 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Id>b7cf87c5-cdfb-427d-9d3b-cdbd0699d5f8</Id>
+          <Id>eab25aba-9a6a-478c-9d10-796dc033ca5c</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>572cbd10-a484-4dc6-a0d5-e432ae719d21</Context>
+          <Context>5ba57a45-3a17-4b79-b2f9-5a0b44e402a2</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -12235,7 +12235,7 @@
       <BaseId>1cf0f28a-95f5-4c47-b62b-5b8879e13836</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
       <SessionEnabled>true</SessionEnabled>
-      <Id>341129ef-1a90-4f27-9599-8a01f55f0ea0</Id>
+      <Id>78710f44-4166-4dd9-9c09-b7d8674d18a7</Id>
       <CommandString>[single] [fire;selector][selector;]</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -12249,12 +12249,12 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Execute command, '((Fire_Select_Single))' (and wait until it completes)</Caption>
-          <Id>66622b75-6282-4285-ac0e-503933313425</Id>
+          <Id>7308974b-98fc-4425-848b-e79a809f80c4</Id>
           <ActionType>ExecuteCommand</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>e9c5eadc-d7b9-4c4f-b02b-adc2195deae4</Context>
+          <Context>ee51dbb9-4098-4108-a8ec-f93acb17f170</Context>
           <X>1</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -12369,7 +12369,7 @@
   <CatchAllEnabled>false</CatchAllEnabled>
   <CatchAllId xsi:nil="true" />
   <InitializeCommandEnabled>true</InitializeCommandEnabled>
-  <InitializeCommandId>2144d594-0add-45e8-97fa-d6dfeb5954dc</InitializeCommandId>
+  <InitializeCommandId>9853c10e-837e-4b7a-9d57-a5f9b264845d</InitializeCommandId>
   <UseProcessOverride>false</UseProcessOverride>
   <ProcessOverrideAciveWindow>true</ProcessOverrideAciveWindow>
   <DictationCommandEnabled>false</DictationCommandEnabled>
@@ -12377,7 +12377,7 @@
   <EnableProfileSwitch>false</EnableProfileSwitch>
   <CategoryGroups />
   <GroupCategory>true</GroupCategory>
-  <LastEditedCommand>57d81517-e710-40ab-ba54-f3ee1600669c</LastEditedCommand>
+  <LastEditedCommand>92e35a62-a3ad-4fb9-8f6b-b7ef6c2ce779</LastEditedCommand>
   <IS>0</IS>
   <IO>0</IO>
   <IP>0</IP>
