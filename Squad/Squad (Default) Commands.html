@@ -170,13 +170,49 @@ thead { cursor:pointer;cursor:hand; }
 <td style='word-wrap:break-word'>Press down B key</td>
 </tr>
 <tr class='r1'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>((Fire_Select_Alt))</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Infantry_Actions</div></td>
+<td style='word-wrap:break-word'>Begin Boolean Compare : [single_fire] Equals True, Execute command, '((Fire_Select_Toggle))' (and wait until it completes), End Condition</td>
+</tr>
+<tr class='r0'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>((Fire_Select_Change))</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>[Middle]</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Utilities</div></td>
+<td style='word-wrap:break-word'>Set Boolean [single_fire] to Toggle</td>
+</tr>
+<tr class='r1'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>((Fire_Select_Single))</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Infantry_Actions</div></td>
+<td style='word-wrap:break-word'>Begin Boolean Compare : [single_fire] Equals False, Execute command, '((Fire_Select_Toggle))' (and wait until it completes), End Condition</td>
+</tr>
+<tr class='r0'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>((Fire_Select_Toggle))</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Infantry_Actions</div></td>
+<td style='word-wrap:break-word'>Click middle mouse button, Execute command, '((Fire_Select_Change))' (and wait until it completes)</td>
+</tr>
+<tr class='r1'>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>((Initialize))</div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>Utilities</div></td>
-<td style='word-wrap:break-word'>Set small int (condition) [rangeClicks] value to 0, Set small int (condition) [RANGE_CLICKS_MAX] value to 3, Set small int (condition) [RANGE_CLICKS_MIN] value to -1</td>
+<td style='word-wrap:break-word'>Set small int (condition) [rangeClicks] value to 0, Set small int (condition) [RANGE_CLICKS_MAX] value to 3, Set small int (condition) [RANGE_CLICKS_MIN] value to -1, Set Boolean [single_fire] to True</td>
 </tr>
 <tr class='r0'>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>((Jump))</div></td>
@@ -476,6 +512,15 @@ thead { cursor:pointer;cursor:hand; }
 <td style='word-wrap:break-word'>Press F key and hold for 0.2 seconds and release</td>
 </tr>
 <tr class='r1'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>[alternate;alter;alt;auto;semi] [fire;mode;select]; [fire;mode;select][auto;semi]</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Infantry_Commands</div></td>
+<td style='word-wrap:break-word'>Execute command, '((Fire_Select_Alt))' (and wait until it completes)</td>
+</tr>
+<tr class='r0'>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>[close;drop;disable;deselect][radial;build;emplacement][menu]</div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
@@ -483,6 +528,15 @@ thead { cursor:pointer;cursor:hand; }
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>Commands</div></td>
 <td style='word-wrap:break-word'>Execute command, '((Close_Radial_Menu))' (and wait until it completes)</td>
+</tr>
+<tr class='r1'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>fire select; [select/alternate] fire</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Infantry_Commands</div></td>
+<td style='word-wrap:break-word'>Execute command, '((Fire_Select_Toggle))' (and wait until it completes)</td>
 </tr>
 <tr class='r0'>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>get in; use</div></td>
@@ -672,6 +726,15 @@ thead { cursor:pointer;cursor:hand; }
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
 <td width='13%'><div style='max-height:4.8em;overflow:hidden'>Commands</div></td>
 <td style='word-wrap:break-word'>Execute command, '((Open_Use_Menu))' (and wait until it completes)</td>
+</tr>
+<tr class='r1'>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>[single] [fire;selector][selector;]</div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'></div></td>
+<td width='13%'><div style='max-height:4.8em;overflow:hidden'>Infantry_Commands</div></td>
+<td style='word-wrap:break-word'>Execute command, '((Fire_Select_Single))' (and wait until it completes)</td>
 </tr>
 </tbody>
 </table>
